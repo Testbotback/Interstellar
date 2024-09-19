@@ -172,16 +172,16 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Over 8 Million Users since 2023",
-  "Fastest growing proxy server",
-  "Made by xBubbo",
-  "Check out discord.gg/interstellar :)",
+  "Secret site so my wife can text me lmao",
+  "GIVE MY WIFE HER PHONE BACK",
+  "Chinda i miss you",
+  "Chinda i love you",
   "Thanks for using the site",
-  "Follow us on Tiktok (@useinterstellar)",
-  "Subscribe to us on YouTube (@unblocking)",
-  "Subscribe to my Youtube (@xbubbo)",
-  "Check out the settings page",
-  "Check out our Patreon (https://www.patreon.com/gointerstellar)",
+  "Follow me on Tiktok (@fogjs)",
+  "We're getting married guyssss",
+  "I LOVE MY BABYYYYYYY",
+  "I MISS MY BABYYYY",
+  "The only one for me",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
