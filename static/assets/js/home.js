@@ -173,10 +173,10 @@ document.addEventListener("DOMContentLoaded", event => {
 // Splash texts
 const SplashT = [
   "Secret site so my wife can text me lmao",
-  "GIVE MY WIFE HER PHONE BACK",
-  "Chinda i miss you",
-  "Chinda i love you",
-  "Thanks for using the site",
+  "heyyyyyyy guysssss",
+  "wanna play fortnite??",
+  "wanna play gta",
+  "thank you for playing fortnite",
   "Follow me on Tiktok (@fogjs)",
   "We're getting married guyssss",
   "I LOVE MY BABYYYYYYY",
